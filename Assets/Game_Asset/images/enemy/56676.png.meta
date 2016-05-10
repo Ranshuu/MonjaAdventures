@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: a2a42eae354b7614ebe089aa683e8bb1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 56676_0
+    21300002: 56676_1
+    21300004: 56676_2
+    21300006: 56676_3
+    21300008: 56676_4
+    21300010: 56676_5
+    21300012: 56676_6
+    21300014: 56676_7
+    21300016: 56676_8
+    21300018: 56676_9
+    21300020: 56676_10
+    21300022: 56676_11
+    21300024: 56676_12
+    21300026: 56676_13
+    21300028: 56676_14
+    21300030: 56676_15
+    21300032: 56676_16
+    21300034: 56676_17
+    21300036: 56676_18
+    21300038: 56676_19
+    21300040: 56676_20
+    21300042: 56676_21
+    21300044: 56676_22
+    21300046: 56676_23
+    21300048: 56676_24
+    21300050: 56676_25
+    21300052: 56676_26
+    21300054: 56676_27
+    21300056: 56676_28
+    21300058: 56676_29
+    21300060: 56676_30
+    21300062: 56676_31
+    21300064: 56676_32
+    21300066: 56676_33
+    21300068: 56676_34
+    21300070: 56676_35
+    21300072: 56676_36
+    21300074: 56676_37
+    21300076: 56676_38
+    21300078: 56676_39
+    21300080: 56676_40
+    21300082: 56676_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 56676_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 409
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 409
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 401
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 409
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 341
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 341
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 273
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 221
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 221
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 161
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 161
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 101
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_15
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 101
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 41
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 57
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 57
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 57
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 57
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 57
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 57
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 42
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 42
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 42
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 42
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_37
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 29
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 56676_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 120
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

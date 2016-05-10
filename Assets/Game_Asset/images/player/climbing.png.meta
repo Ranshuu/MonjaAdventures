@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 2818bc81da523ba4c87d0e825b715d7c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: climbing_0
+    21300002: climbing_1
+    21300004: climbing_2
+    21300006: climbing_3
+    21300008: climbing_4
+    21300010: climbing_5
+    21300012: climbing_6
+    21300014: climbing_7
+    21300016: climbing_8
+    21300018: climbing_9
+    21300020: climbing_10
+    21300022: climbing_11
+    21300024: climbing_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: climbing_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2290
+        width: 488
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_1
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2290
+        width: 487
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_2
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2290
+        width: 495
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_3
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 2290
+        width: 494
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_4
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 2290
+        width: 493
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1617
+        width: 486
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_6
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1617
+        width: 486
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_7
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1620
+        width: 488
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_8
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1617
+        width: 487
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1617
+        width: 498
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 954
+        width: 487
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_11
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 949
+        width: 492
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: climbing_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 943
+        width: 489
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

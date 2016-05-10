@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 9a62f2162878a13439fbaa5a284de3ff
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: items-and-treasures_0
+    21300002: items-and-treasures_1
+    21300004: items-and-treasures_2
+    21300006: items-and-treasures_3
+    21300008: items-and-treasures_4
+    21300010: items-and-treasures_5
+    21300012: items-and-treasures_6
+    21300014: items-and-treasures_7
+    21300016: items-and-treasures_8
+    21300018: items-and-treasures_9
+    21300020: items-and-treasures_10
+    21300022: items-and-treasures_11
+    21300024: items-and-treasures_12
+    21300026: items-and-treasures_13
+    21300028: items-and-treasures_14
+    21300030: items-and-treasures_15
+    21300032: items-and-treasures_16
+    21300034: items-and-treasures_17
+    21300036: items-and-treasures_18
+    21300038: items-and-treasures_19
+    21300040: items-and-treasures_20
+    21300042: items-and-treasures_21
+    21300044: items-and-treasures_22
+    21300046: items-and-treasures_23
+    21300048: items-and-treasures_24
+    21300050: items-and-treasures_25
+    21300052: items-and-treasures_26
+    21300054: items-and-treasures_27
+    21300056: items-and-treasures_28
+    21300058: items-and-treasures_29
+    21300060: items-and-treasures_30
+    21300062: items-and-treasures_31
+    21300064: items-and-treasures_32
+    21300066: items-and-treasures_33
+    21300068: items-and-treasures_34
+    21300070: items-and-treasures_35
+    21300072: items-and-treasures_36
+    21300074: items-and-treasures_37
+    21300076: items-and-treasures_38
+    21300078: items-and-treasures_39
+    21300080: items-and-treasures_40
+    21300082: items-and-treasures_41
+    21300084: items-and-treasures_42
+    21300086: items-and-treasures_43
+    21300088: items-and-treasures_44
+    21300090: items-and-treasures_45
+    21300092: items-and-treasures_46
+    21300094: items-and-treasures_47
+    21300096: items-and-treasures_48
+    21300098: items-and-treasures_49
+    21300100: items-and-treasures_50
+    21300102: items-and-treasures_51
+    21300104: items-and-treasures_52
+    21300106: items-and-treasures_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: items-and-treasures_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 267
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 267
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 249
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 249
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 0
+        width: 12
+        height: 286
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 249
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 250
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 250
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 243
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 231
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 233
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 233
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 233
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 212
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 225
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 212
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 214
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 214
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_26
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 201
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 212
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 189
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 189
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_30
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 172
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 172
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 171
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 171
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_34
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 176
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 146
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_39
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 146
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 146
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 120
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 118
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 119
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 119
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 255
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: items-and-treasures_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

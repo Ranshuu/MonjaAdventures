@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: a4f2cd1e05ebfab4da62a1f4dc1f8480
+timeCreated: 1460961266
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: worm_0
+    21300002: worm_1
+    21300004: worm_2
+    21300006: worm_3
+    21300008: worm_4
+    21300010: worm_5
+    21300012: worm_6
+    21300014: worm_7
+    21300016: worm_8
+    21300018: worm_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: worm_0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 103
+        width: 59
+        height: 80
+      alignment: 9
+      pivot: {x: 0.46580788, y: 0.3487032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.517334, y: 49.103745}
+        - {x: -4.482666, y: 49.103745}
+        - {x: -8.482666, y: 43.103745}
+        - {x: -3.482666, y: 30.103745}
+        - {x: -20.482666, y: 32.103745}
+        - {x: -27.482666, y: 15.1037445}
+        - {x: -27.482666, y: -24.896255}
+        - {x: -21.482666, y: -27.896255}
+        - {x: 22.517334, y: -27.896255}
+        - {x: 29.517334, y: 4.1037445}
+        - {x: 29.517334, y: 48.103745}
+    - name: worm_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 105
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 25}
+        - {x: -19.5, y: 25}
+        - {x: -25.5, y: 19}
+        - {x: -25.5, y: -22}
+        - {x: -20.5, y: -25}
+        - {x: 20.5, y: -25}
+        - {x: 25.5, y: -16}
+        - {x: 25.5, y: 21}
+    - name: worm_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 105
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25}
+        - {x: -24, y: -23}
+        - {x: -21, y: -25}
+        - {x: 21, y: -25}
+        - {x: 24, y: -22}
+        - {x: 24, y: 19}
+        - {x: 22, y: 25}
+    - name: worm_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 105
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 26}
+        - {x: -26.5, y: 16}
+        - {x: -26.5, y: -20}
+        - {x: -22.5, y: -26}
+        - {x: 17.5, y: -26}
+        - {x: 23.5, y: -12}
+        - {x: 26.5, y: 9}
+        - {x: 26.5, y: 26}
+    - name: worm_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 105
+        width: 53
+        height: 63
+      alignment: 9
+      pivot: {x: 0.4999997, y: 0.4039384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.499985, y: 35.55188}
+        - {x: -26.499985, y: 25.55188}
+        - {x: -26.499985, y: -16.44812}
+        - {x: -20.499985, y: -25.44812}
+        - {x: 16.500015, y: -25.44812}
+        - {x: 26.500015, y: -20.44812}
+        - {x: 26.500015, y: 35.55188}
+    - name: worm_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 61
+        height: 65
+      alignment: 9
+      pivot: {x: 0.41732413, y: 0.39137673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.543228, y: 39.560513}
+        - {x: 2.5432281, y: 39.560513}
+        - {x: -22.456772, y: 32.560513}
+        - {x: -25.456772, y: 21.560513}
+        - {x: -25.456772, y: -22.439487}
+        - {x: -20.456772, y: -25.439487}
+        - {x: 25.543228, y: -25.439487}
+        - {x: 35.54323, y: 0.56051254}
+        - {x: 35.54323, y: 34.560513}
+    - name: worm_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 53
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4714534, y: 0.44782883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.01297, y: -11.9740715}
+        - {x: 28.01297, y: -1.9740715}
+        - {x: 28.01297, y: 29.025928}
+        - {x: 27.01297, y: 32.02593}
+        - {x: -24.98703, y: 32.02593}
+        - {x: -24.98703, y: -16.974072}
+        - {x: -18.98703, y: -25.974072}
+        - {x: 17.01297, y: -25.974072}
+    - name: worm_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 20
+        width: 61
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5330703, y: 0.42679185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.517288, y: 35.538906}
+        - {x: -31.517288, y: -20.461094}
+        - {x: -20.517288, y: -26.461094}
+        - {x: 19.482712, y: -26.461094}
+        - {x: 28.482712, y: -20.461094}
+        - {x: 28.482712, y: 30.538906}
+        - {x: 15.482712, y: 35.538906}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

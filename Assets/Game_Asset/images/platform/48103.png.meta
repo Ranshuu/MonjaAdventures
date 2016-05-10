@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: abcad0c6ce68640479d838592df4575c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 48103_7
+    21300002: 48103_8
+    21300004: 48103_9
+    21300006: 48103_10
+    21300008: 48103_11
+    21300010: 48103_19
+    21300012: 48103_20
+    21300014: 48103_21
+    21300016: 48103_22
+    21300018: 48103_23
+    21300020: 48103_24
+    21300022: 48103_25
+    21300024: 48103_26
+    21300026: 48103_41
+    21300028: 48103_42
+    21300030: 48103_43
+    21300032: 48103_44
+    21300034: 48103_45
+    21300036: 48103_46
+    21300038: 48103_61
+    21300040: 48103_62
+    21300042: 48103_63
+    21300044: 48103_64
+    21300046: 48103_65
+    21300048: 48103_66
+    21300050: 48103_67
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 48103_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 224
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 188
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 188
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 188
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 188
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 188
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 142
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 144
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_44
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 145
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 142
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 93
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_65
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 91
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 48103_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 239
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

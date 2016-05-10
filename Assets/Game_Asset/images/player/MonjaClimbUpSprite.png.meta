@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 93b2355f2f1060249a41a7290d7269c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonjaClimbUpSprite_0
+    21300002: MonjaClimbUpSprite_1
+    21300004: MonjaClimbUpSprite_2
+    21300006: MonjaClimbUpSprite_3
+    21300008: MonjaClimbUpSprite_4
+    21300010: MonjaClimbUpSprite_5
+    21300012: MonjaClimbUpSprite_6
+    21300014: MonjaClimbUpSprite_7
+    21300016: MonjaClimbUpSprite_8
+    21300018: MonjaClimbUpSprite_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MonjaClimbUpSprite_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1338
+        width: 483
+        height: 572
+      alignment: 9
+      pivot: {x: .507784903, y: .795812428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1382
+        width: 486
+        height: 579
+      alignment: 9
+      pivot: {x: .515473664, y: .785742164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_2
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1360
+        width: 486
+        height: 596
+      alignment: 9
+      pivot: {x: .499999762, y: .790209472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_3
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1414
+        width: 486
+        height: 510
+      alignment: 9
+      pivot: {x: .499999762, y: .794910133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 650
+        width: 483
+        height: 562
+      alignment: 9
+      pivot: {x: .499999881, y: .794385612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 647
+        width: 484
+        height: 564
+      alignment: 9
+      pivot: {x: .484462529, y: .786674559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 769
+        width: 486
+        height: 528
+      alignment: 9
+      pivot: {x: .507736623, y: .784856379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 54
+        width: 485
+        height: 530
+      alignment: 9
+      pivot: {x: .507752836, y: .812159657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 37
+        width: 567
+        height: 561
+      alignment: 9
+      pivot: {x: .480105132, y: .801612675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaClimbUpSprite_9
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 68
+        width: 483
+        height: 567
+      alignment: 9
+      pivot: {x: .50802958, y: .773596108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

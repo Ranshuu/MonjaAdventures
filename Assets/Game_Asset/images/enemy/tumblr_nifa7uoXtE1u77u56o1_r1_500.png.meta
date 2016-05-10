@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 7ffeffd0ffa762945be911282a7b562e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tumblr_nifa7uoXtE1u77u56o1_r1_500_0
+    21300002: tumblr_nifa7uoXtE1u77u56o1_r1_500_1
+    21300004: tumblr_nifa7uoXtE1u77u56o1_r1_500_2
+    21300006: tumblr_nifa7uoXtE1u77u56o1_r1_500_3
+    21300008: tumblr_nifa7uoXtE1u77u56o1_r1_500_4
+    21300010: tumblr_nifa7uoXtE1u77u56o1_r1_500_5
+    21300012: tumblr_nifa7uoXtE1u77u56o1_r1_500_6
+    21300014: tumblr_nifa7uoXtE1u77u56o1_r1_500_7
+    21300016: tumblr_nifa7uoXtE1u77u56o1_r1_500_8
+    21300018: tumblr_nifa7uoXtE1u77u56o1_r1_500_9
+    21300020: tumblr_nifa7uoXtE1u77u56o1_r1_500_10
+    21300022: tumblr_nifa7uoXtE1u77u56o1_r1_500_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 743
+        width: 201
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 743
+        width: 212
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_2
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 743
+        width: 228
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_3
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 743
+        width: 240
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 383
+        width: 251
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 383
+        width: 260
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 383
+        width: 264
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 383
+        width: 242
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 22
+        width: 222
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 22
+        width: 213
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_10
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 22
+        width: 213
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tumblr_nifa7uoXtE1u77u56o1_r1_500_11
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 22
+        width: 207
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

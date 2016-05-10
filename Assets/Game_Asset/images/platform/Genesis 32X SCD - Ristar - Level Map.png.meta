@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: d7a14894c6d8b7440b3c29b3e0a0b86c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis 32X SCD - Ristar - Level Map_0
+    21300002: Genesis 32X SCD - Ristar - Level Map_1
+    21300004: Genesis 32X SCD - Ristar - Level Map_2
+    21300006: Genesis 32X SCD - Ristar - Level Map_3
+    21300008: Genesis 32X SCD - Ristar - Level Map_4
+    21300010: Genesis 32X SCD - Ristar - Level Map_5
+    21300012: Genesis 32X SCD - Ristar - Level Map_6
+    21300014: Genesis 32X SCD - Ristar - Level Map_7
+    21300016: Genesis 32X SCD - Ristar - Level Map_8
+    21300018: Genesis 32X SCD - Ristar - Level Map_9
+    21300020: Genesis 32X SCD - Ristar - Level Map_10
+    21300022: Genesis 32X SCD - Ristar - Level Map_11
+    21300024: Genesis 32X SCD - Ristar - Level Map_12
+    21300026: Genesis 32X SCD - Ristar - Level Map_13
+    21300028: Genesis 32X SCD - Ristar - Level Map_14
+    21300030: Genesis 32X SCD - Ristar - Level Map_15
+    21300032: Genesis 32X SCD - Ristar - Level Map_16
+    21300034: Genesis 32X SCD - Ristar - Level Map_17
+    21300036: Genesis 32X SCD - Ristar - Level Map_18
+    21300038: Genesis 32X SCD - Ristar - Level Map_19
+    21300040: Genesis 32X SCD - Ristar - Level Map_20
+    21300042: Genesis 32X SCD - Ristar - Level Map_21
+    21300044: Genesis 32X SCD - Ristar - Level Map_22
+    21300046: Genesis 32X SCD - Ristar - Level Map_23
+    21300048: Genesis 32X SCD - Ristar - Level Map_24
+    21300050: Genesis 32X SCD - Ristar - Level Map_25
+    21300052: Genesis 32X SCD - Ristar - Level Map_26
+    21300054: Genesis 32X SCD - Ristar - Level Map_27
+    21300056: Genesis 32X SCD - Ristar - Level Map_28
+    21300058: Genesis 32X SCD - Ristar - Level Map_29
+    21300060: Genesis 32X SCD - Ristar - Level Map_30
+    21300062: Genesis 32X SCD - Ristar - Level Map_31
+    21300064: Genesis 32X SCD - Ristar - Level Map_32
+    21300066: Genesis 32X SCD - Ristar - Level Map_33
+    21300068: Genesis 32X SCD - Ristar - Level Map_34
+    21300070: Genesis 32X SCD - Ristar - Level Map_35
+    21300072: Genesis 32X SCD - Ristar - Level Map_36
+    21300074: Genesis 32X SCD - Ristar - Level Map_37
+    21300076: Genesis 32X SCD - Ristar - Level Map_38
+    21300078: Genesis 32X SCD - Ristar - Level Map_39
+    21300080: Genesis 32X SCD - Ristar - Level Map_40
+    21300082: Genesis 32X SCD - Ristar - Level Map_41
+    21300084: Genesis 32X SCD - Ristar - Level Map_42
+    21300086: Genesis 32X SCD - Ristar - Level Map_43
+    21300088: Genesis 32X SCD - Ristar - Level Map_44
+    21300090: Genesis 32X SCD - Ristar - Level Map_45
+    21300092: Genesis 32X SCD - Ristar - Level Map_46
+    21300094: Genesis 32X SCD - Ristar - Level Map_47
+    21300096: Genesis 32X SCD - Ristar - Level Map_48
+    21300098: Genesis 32X SCD - Ristar - Level Map_49
+    21300100: Genesis 32X SCD - Ristar - Level Map_50
+    21300102: Genesis 32X SCD - Ristar - Level Map_51
+    21300104: Genesis 32X SCD - Ristar - Level Map_52
+    21300106: Genesis 32X SCD - Ristar - Level Map_53
+    21300108: Genesis 32X SCD - Ristar - Level Map_54
+    21300110: Genesis 32X SCD - Ristar - Level Map_55
+    21300112: Genesis 32X SCD - Ristar - Level Map_56
+    21300114: Genesis 32X SCD - Ristar - Level Map_57
+    21300116: Genesis 32X SCD - Ristar - Level Map_58
+    21300118: Genesis 32X SCD - Ristar - Level Map_59
+    21300120: Genesis 32X SCD - Ristar - Level Map_60
+    21300122: Genesis 32X SCD - Ristar - Level Map_61
+    21300124: Genesis 32X SCD - Ristar - Level Map_62
+    21300126: Genesis 32X SCD - Ristar - Level Map_63
+    21300128: Genesis 32X SCD - Ristar - Level Map_64
+    21300130: Genesis 32X SCD - Ristar - Level Map_65
+    21300132: Genesis 32X SCD - Ristar - Level Map_66
+    21300134: Genesis 32X SCD - Ristar - Level Map_67
+    21300136: Genesis 32X SCD - Ristar - Level Map_68
+    21300138: Genesis 32X SCD - Ristar - Level Map_69
+    21300140: Genesis 32X SCD - Ristar - Level Map_70
+    21300142: Genesis 32X SCD - Ristar - Level Map_71
+    21300144: Genesis 32X SCD - Ristar - Level Map_72
+    21300146: Genesis 32X SCD - Ristar - Level Map_73
+    21300148: Genesis 32X SCD - Ristar - Level Map_74
+    21300150: Genesis 32X SCD - Ristar - Level Map_75
+    21300152: Genesis 32X SCD - Ristar - Level Map_76
+    21300154: Genesis 32X SCD - Ristar - Level Map_77
+    21300156: Genesis 32X SCD - Ristar - Level Map_78
+    21300158: Genesis 32X SCD - Ristar - Level Map_79
+    21300160: Genesis 32X SCD - Ristar - Level Map_80
+    21300162: Genesis 32X SCD - Ristar - Level Map_81
+    21300164: Genesis 32X SCD - Ristar - Level Map_82
+    21300166: Genesis 32X SCD - Ristar - Level Map_83
+    21300168: Genesis 32X SCD - Ristar - Level Map_84
+    21300170: Genesis 32X SCD - Ristar - Level Map_85
+    21300172: Genesis 32X SCD - Ristar - Level Map_86
+    21300174: Genesis 32X SCD - Ristar - Level Map_87
+    21300176: Genesis 32X SCD - Ristar - Level Map_88
+    21300178: Genesis 32X SCD - Ristar - Level Map_89
+    21300180: Genesis 32X SCD - Ristar - Level Map_90
+    21300182: Genesis 32X SCD - Ristar - Level Map_91
+    21300184: Genesis 32X SCD - Ristar - Level Map_92
+    21300186: Genesis 32X SCD - Ristar - Level Map_93
+    21300188: Genesis 32X SCD - Ristar - Level Map_94
+    21300190: Genesis 32X SCD - Ristar - Level Map_95
+    21300192: Genesis 32X SCD - Ristar - Level Map_96
+    21300194: Genesis 32X SCD - Ristar - Level Map_97
+    21300196: Genesis 32X SCD - Ristar - Level Map_98
+    21300198: Genesis 32X SCD - Ristar - Level Map_99
+    21300200: Genesis 32X SCD - Ristar - Level Map_100
+    21300202: Genesis 32X SCD - Ristar - Level Map_101
+    21300204: Genesis 32X SCD - Ristar - Level Map_102
+    21300206: Genesis 32X SCD - Ristar - Level Map_103
+    21300208: Genesis 32X SCD - Ristar - Level Map_104
+    21300210: Genesis 32X SCD - Ristar - Level Map_105
+    21300212: Genesis 32X SCD - Ristar - Level Map_106
+    21300214: Genesis 32X SCD - Ristar - Level Map_107
+    21300216: Genesis 32X SCD - Ristar - Level Map_108
+    21300218: Genesis 32X SCD - Ristar - Level Map_109
+    21300220: Genesis 32X SCD - Ristar - Level Map_110
+    21300222: Genesis 32X SCD - Ristar - Level Map_111
+    21300224: Genesis 32X SCD - Ristar - Level Map_112
+    21300226: Genesis 32X SCD - Ristar - Level Map_113
+    21300228: Genesis 32X SCD - Ristar - Level Map_114
+    21300230: Genesis 32X SCD - Ristar - Level Map_115
+    21300232: Genesis 32X SCD - Ristar - Level Map_116
+    21300234: Genesis 32X SCD - Ristar - Level Map_117
+    21300236: Genesis 32X SCD - Ristar - Level Map_118
+    21300238: Genesis 32X SCD - Ristar - Level Map_119
+    21300240: Genesis 32X SCD - Ristar - Level Map_120
+    21300242: Genesis 32X SCD - Ristar - Level Map_121
+    21300244: Genesis 32X SCD - Ristar - Level Map_122
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Genesis 32X SCD - Ristar - Level Map_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 320
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 866
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 818
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 770
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 722
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 320
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 674
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 626
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 578
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 530
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 482
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 434
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 420
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 420
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 420
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_32
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 420
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_35
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 420
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 386
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 362
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 362
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 362
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 338
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 287
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 287
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 287
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_60
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_61
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_62
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 287
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 287
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 290
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_68
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 229
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 229
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_70
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 229
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_71
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 242
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_72
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 194
+        width: 320
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_73
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_79
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_86
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_88
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_91
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_92
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_93
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_95
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 154
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 154
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_98
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_99
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 153
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_100
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 153
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_102
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_103
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 132
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 96
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_105
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 96
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_106
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 96
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 14
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_108
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_109
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_110
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 114
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_111
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 118
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 126
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_114
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 77
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_115
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_117
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 75
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_118
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 83
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 91
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_120
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 170
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Genesis 32X SCD - Ristar - Level Map_122
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 22
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

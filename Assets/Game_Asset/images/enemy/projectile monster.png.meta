@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: bd3b5d93c5f60324bbe9807657fa8256
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: projectile monster_0
+    21300002: projectile monster_1
+    21300004: projectile monster_2
+    21300006: projectile monster_3
+    21300008: projectile monster_4
+    21300010: projectile monster_5
+    21300012: projectile monster_6
+    21300014: projectile monster_7
+    21300016: projectile monster_8
+    21300018: projectile monster_9
+    21300020: projectile monster_10
+    21300022: projectile monster_11
+    21300024: projectile monster_12
+    21300026: projectile monster_13
+    21300028: projectile monster_14
+    21300030: projectile monster_15
+    21300032: projectile monster_16
+    21300034: projectile monster_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: projectile monster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 298
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 250
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 208
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 60
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 60
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 151
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 63
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 100
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 10
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 49
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: projectile monster_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 12
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

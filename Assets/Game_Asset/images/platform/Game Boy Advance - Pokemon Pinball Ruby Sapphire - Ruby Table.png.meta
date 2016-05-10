@@ -1,0 +1,3875 @@
+fileFormatVersion: 2
+guid: 4ed8a388240ad4f408e7b2558c0d8bea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_0
+    21300002: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_1
+    21300004: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_2
+    21300006: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_3
+    21300008: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_4
+    21300010: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_5
+    21300012: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_6
+    21300014: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_7
+    21300016: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_8
+    21300018: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_9
+    21300020: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_10
+    21300022: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_11
+    21300024: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_12
+    21300026: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_13
+    21300028: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_14
+    21300030: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_15
+    21300032: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_16
+    21300034: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_17
+    21300036: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_18
+    21300038: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_19
+    21300040: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_20
+    21300042: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_21
+    21300044: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_22
+    21300046: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_23
+    21300048: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_24
+    21300050: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_25
+    21300052: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_26
+    21300054: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_27
+    21300056: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_28
+    21300058: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_29
+    21300060: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_30
+    21300062: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_31
+    21300064: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_32
+    21300066: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_33
+    21300068: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_34
+    21300070: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_35
+    21300072: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_36
+    21300074: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_37
+    21300076: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_38
+    21300078: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_39
+    21300080: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_40
+    21300082: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_41
+    21300084: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_42
+    21300086: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_43
+    21300088: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_44
+    21300090: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_45
+    21300092: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_46
+    21300094: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_47
+    21300096: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_48
+    21300098: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_49
+    21300100: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_50
+    21300102: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_51
+    21300104: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_52
+    21300106: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_53
+    21300108: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_54
+    21300110: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_55
+    21300112: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_56
+    21300114: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_57
+    21300116: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_58
+    21300118: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_59
+    21300120: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_60
+    21300122: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_61
+    21300124: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_62
+    21300126: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_63
+    21300128: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_64
+    21300130: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_65
+    21300132: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_66
+    21300134: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_67
+    21300136: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_68
+    21300138: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_69
+    21300140: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_70
+    21300142: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_71
+    21300144: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_72
+    21300146: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_73
+    21300148: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_74
+    21300150: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_75
+    21300152: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_76
+    21300154: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_77
+    21300156: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_78
+    21300158: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_79
+    21300160: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_80
+    21300162: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_81
+    21300164: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_82
+    21300166: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_83
+    21300168: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_84
+    21300170: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_85
+    21300172: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_86
+    21300174: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_87
+    21300176: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_88
+    21300178: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_89
+    21300180: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_90
+    21300182: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_91
+    21300184: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_92
+    21300186: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_93
+    21300188: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_94
+    21300190: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_95
+    21300192: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_96
+    21300194: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_97
+    21300196: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_98
+    21300198: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_99
+    21300200: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_100
+    21300202: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_101
+    21300204: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_102
+    21300206: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_103
+    21300208: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_104
+    21300210: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_105
+    21300212: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_106
+    21300214: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_107
+    21300216: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_108
+    21300218: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_109
+    21300220: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_110
+    21300222: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_111
+    21300224: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_112
+    21300226: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_113
+    21300228: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_114
+    21300230: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_115
+    21300232: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_116
+    21300234: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_117
+    21300236: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_118
+    21300238: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_119
+    21300240: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_120
+    21300242: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_121
+    21300244: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_122
+    21300246: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_123
+    21300248: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_124
+    21300250: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_125
+    21300252: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_126
+    21300254: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_127
+    21300256: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_128
+    21300258: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_129
+    21300260: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_130
+    21300262: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_131
+    21300264: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_132
+    21300266: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_133
+    21300268: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_134
+    21300270: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_135
+    21300272: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_136
+    21300274: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_137
+    21300276: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_138
+    21300278: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_139
+    21300280: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_140
+    21300282: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_141
+    21300284: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_142
+    21300286: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_143
+    21300288: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_144
+    21300290: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_145
+    21300292: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_146
+    21300294: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_147
+    21300296: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_148
+    21300298: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_149
+    21300300: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_150
+    21300302: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_151
+    21300304: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_152
+    21300306: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_153
+    21300308: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_154
+    21300310: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_155
+    21300312: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_156
+    21300314: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_157
+    21300316: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_158
+    21300318: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_159
+    21300320: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_160
+    21300322: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_161
+    21300324: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_162
+    21300326: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_163
+    21300328: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_164
+    21300330: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_165
+    21300332: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_166
+    21300334: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_167
+    21300336: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_168
+    21300338: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_169
+    21300340: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_170
+    21300342: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_171
+    21300344: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_172
+    21300346: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_173
+    21300348: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_174
+    21300350: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_175
+    21300352: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_176
+    21300354: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_177
+    21300356: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_178
+    21300358: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_179
+    21300360: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_180
+    21300362: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_181
+    21300364: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_182
+    21300366: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_183
+    21300368: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_184
+    21300370: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_185
+    21300372: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_186
+    21300374: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_187
+    21300376: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_188
+    21300378: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_189
+    21300380: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_190
+    21300382: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_191
+    21300384: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_192
+    21300386: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_193
+    21300388: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_194
+    21300390: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_195
+    21300392: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_196
+    21300394: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_197
+    21300396: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_198
+    21300398: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_199
+    21300400: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_200
+    21300402: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_201
+    21300404: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_202
+    21300406: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_203
+    21300408: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_204
+    21300410: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_205
+    21300412: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_206
+    21300414: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_207
+    21300416: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_208
+    21300418: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_209
+    21300420: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_210
+    21300422: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_211
+    21300424: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_212
+    21300426: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_213
+    21300428: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_214
+    21300430: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_215
+    21300432: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_216
+    21300434: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_217
+    21300436: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_218
+    21300438: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_219
+    21300440: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_220
+    21300442: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_221
+    21300444: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_222
+    21300446: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_223
+    21300448: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_224
+    21300450: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_225
+    21300452: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_226
+    21300454: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_227
+    21300456: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_228
+    21300458: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_229
+    21300460: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_230
+    21300462: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_231
+    21300464: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_232
+    21300466: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_233
+    21300468: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_234
+    21300470: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_235
+    21300472: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_236
+    21300474: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_237
+    21300476: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_238
+    21300478: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_239
+    21300480: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_240
+    21300482: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_241
+    21300484: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_242
+    21300486: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_243
+    21300488: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_244
+    21300490: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_245
+    21300492: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_246
+    21300494: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_247
+    21300496: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_248
+    21300498: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_249
+    21300500: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_250
+    21300502: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_251
+    21300504: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_252
+    21300506: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_253
+    21300508: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_254
+    21300510: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_255
+    21300512: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_256
+    21300514: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_257
+    21300516: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_258
+    21300518: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_259
+    21300520: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_260
+    21300522: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_261
+    21300524: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_262
+    21300526: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_263
+    21300528: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_264
+    21300530: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_265
+    21300532: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_266
+    21300534: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_267
+    21300536: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_268
+    21300538: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_269
+    21300540: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_270
+    21300542: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_271
+    21300544: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_272
+    21300546: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_273
+    21300548: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_274
+    21300550: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_275
+    21300552: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_276
+    21300554: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_277
+    21300556: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_278
+    21300558: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_279
+    21300560: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_280
+    21300562: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_281
+    21300564: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_282
+    21300566: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_283
+    21300568: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_284
+    21300570: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_285
+    21300572: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_286
+    21300574: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_287
+    21300576: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_288
+    21300578: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_289
+    21300580: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_290
+    21300582: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_291
+    21300584: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_292
+    21300586: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_293
+    21300588: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_294
+    21300590: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_295
+    21300592: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_296
+    21300594: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_297
+    21300596: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_298
+    21300598: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_299
+    21300600: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_300
+    21300602: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_301
+    21300604: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_302
+    21300606: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_303
+    21300608: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_304
+    21300610: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_305
+    21300612: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_306
+    21300614: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_307
+    21300616: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_308
+    21300618: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_309
+    21300620: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_310
+    21300622: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_311
+    21300624: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_312
+    21300626: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_313
+    21300628: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_314
+    21300630: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_315
+    21300632: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_316
+    21300634: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_317
+    21300636: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_318
+    21300638: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_319
+    21300640: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_320
+    21300642: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_321
+    21300644: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_322
+    21300646: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_323
+    21300648: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_324
+    21300650: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_325
+    21300652: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_326
+    21300654: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_327
+    21300656: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_328
+    21300658: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_329
+    21300660: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_330
+    21300662: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_331
+    21300664: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_332
+    21300666: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_333
+    21300668: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_334
+    21300670: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_335
+    21300672: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_336
+    21300674: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_337
+    21300676: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_338
+    21300678: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_339
+    21300680: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_340
+    21300682: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_341
+    21300684: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_342
+    21300686: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_343
+    21300688: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_344
+    21300690: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_345
+    21300692: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_346
+    21300694: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_347
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1472
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1076
+        width: 257
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1389
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1397
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1396
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1386
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1399
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1271
+        width: 86
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1274
+        width: 138
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1312
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1320
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1290
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1249
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1236
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1236
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1236
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1236
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1236
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1236
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1236
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_20
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1236
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1236
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_24
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1239
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1239
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1239
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1233
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1186
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_29
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1186
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_30
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1186
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1186
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1186
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1182
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1182
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1158
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1138
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1138
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1158
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1139
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1139
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_41
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1145
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1145
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1145
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_44
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1149
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_47
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1154
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1067
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1076
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1074
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1089
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1086
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1045
+        width: 128
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1064
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_55
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1076
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_56
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1044
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 991
+        width: 25
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_58
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 998
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 967
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1029
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1020
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_62
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1020
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1020
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1020
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1020
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_66
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1020
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1020
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_68
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 649
+        width: 257
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1022
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_70
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1011
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_71
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1011
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_72
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1002
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1002
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1002
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_75
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1002
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1002
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1002
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1002
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_79
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1011
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1011
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_81
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1011
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_82
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1007
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_83
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1004
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_84
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1000
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_85
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1000
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1000
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_87
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1000
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_88
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1000
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_89
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1000
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 995
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_91
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 985
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 985
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 985
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 985
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_95
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 985
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_96
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 985
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 985
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_98
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 988
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 928
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_100
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 950
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 953
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 958
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_103
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 958
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_104
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 891
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 894
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_106
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 894
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_107
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 875
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_108
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 875
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_109
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 875
+        width: 56
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_110
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 873
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_111
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 873
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_112
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 873
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_113
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 875
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 857
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_116
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 857
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_118
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_119
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_120
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 857
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_121
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 856
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 856
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 856
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_124
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 856
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_125
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 856
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_126
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 856
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 856
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_128
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 856
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 837
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 816
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_131
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 816
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_132
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 837
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_133
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 818
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_134
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 819
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_135
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 819
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_136
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 832
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_137
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 832
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 829
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 782
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_140
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 785
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_141
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 787
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_142
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 788
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_143
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 785
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_144
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 784
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_145
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 782
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_146
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 785
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_147
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 787
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_148
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 785
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_149
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 784
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 782
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_151
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 782
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_152
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 782
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_153
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 782
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_154
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_155
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 716
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_156
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_157
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_158
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 744
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_159
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 716
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_160
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_161
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 744
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_162
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_163
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 744
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_164
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 706
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_165
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 705
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_166
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 703
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_167
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 703
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_168
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 703
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_169
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 706
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_170
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 706
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_171
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 706
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_172
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 705
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_173
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 703
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_174
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 703
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_175
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 703
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_176
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 702
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_177
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 703
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_178
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 706
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_179
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 706
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_180
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 703
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_181
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 653
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_182
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 653
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_183
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 653
+        width: 110
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_184
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 653
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_185
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 656
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_186
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 653
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_187
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 653
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_188
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 653
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_189
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 653
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_190
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 653
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_191
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 653
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_192
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 653
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_193
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 669
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_194
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 592
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_195
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 592
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_196
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 592
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_197
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 592
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_198
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 592
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_199
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 592
+        width: 85
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_200
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 592
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_201
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 592
+        width: 85
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_202
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 590
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_203
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 590
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_204
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 590
+        width: 135
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_205
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 609
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_206
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 586
+        width: 9
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_207
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 584
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_208
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 596
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_209
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 596
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_210
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 528
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_211
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 528
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_212
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 528
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_213
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 555
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_214
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 534
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_215
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_216
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 528
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_217
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 528
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_218
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 528
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_219
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 528
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_220
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 528
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_221
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 528
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_222
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 546
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_223
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 534
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_224
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 480
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_225
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 480
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_226
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 478
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_227
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 478
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_228
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 478
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_229
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 478
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_230
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 478
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_231
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 478
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_232
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 478
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_233
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 478
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_234
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 478
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_235
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 478
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_236
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 478
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_237
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 478
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_238
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 478
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_239
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 483
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_240
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 424
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_241
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 424
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_242
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 424
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_243
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 424
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_244
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 424
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_245
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 424
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_246
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_247
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 436
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_248
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 436
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_249
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 433
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_250
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 433
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_251
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_252
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 446
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_253
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 434
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_254
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 367
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_255
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 367
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_256
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 367
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_257
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 367
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_258
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 367
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_259
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 367
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_260
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 367
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_261
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 367
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_262
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 367
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_263
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 367
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_264
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 320
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_265
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 320
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_266
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 320
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_267
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 320
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_268
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 320
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_269
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 320
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_270
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_271
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 343
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_272
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 320
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_273
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 214
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_274
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 214
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_275
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 214
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_276
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 214
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_277
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_278
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 214
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_279
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 214
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_280
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 214
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_281
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 214
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_282
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 210
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_283
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 210
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_284
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 213
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_285
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 213
+        width: 28
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_286
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 214
+        width: 24
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_287
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 214
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_288
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 223
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_289
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 223
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_290
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 229
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_291
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 220
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_292
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 217
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_293
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 216
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_294
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 222
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_295
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 114
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_296
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 114
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_297
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_298
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 114
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_299
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 114
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_300
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 114
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_301
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 114
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_302
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_303
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_304
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 114
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_305
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 114
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_306
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 110
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_307
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 110
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_308
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 113
+        width: 27
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_309
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 113
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_310
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 114
+        width: 25
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_311
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 114
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_312
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 122
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_313
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 122
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_314
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 129
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_315
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 119
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_316
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 116
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_317
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 116
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_318
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 122
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_319
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 19
+        width: 210
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_320
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_321
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 45
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_322
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 45
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_323
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 45
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_324
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 45
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_325
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 44
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_326
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 47
+        width: 119
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_327
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 56
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_328
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 28
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_329
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_330
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_331
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_332
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_333
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_334
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_335
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_336
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_337
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_338
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_339
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_340
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_341
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 6
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_342
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_343
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_344
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_345
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_346
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 6
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon Pinball Ruby Sapphire - Ruby Table_347
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 85755ae0a025bd04f9c711e439e4ec13
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Wario Land 4 - Background Objects_0
+    21300002: Game Boy Advance - Wario Land 4 - Background Objects_1
+    21300004: Game Boy Advance - Wario Land 4 - Background Objects_2
+    21300006: Game Boy Advance - Wario Land 4 - Background Objects_3
+    21300008: Game Boy Advance - Wario Land 4 - Background Objects_4
+    21300010: Game Boy Advance - Wario Land 4 - Background Objects_5
+    21300012: Game Boy Advance - Wario Land 4 - Background Objects_6
+    21300014: Game Boy Advance - Wario Land 4 - Background Objects_7
+    21300016: Game Boy Advance - Wario Land 4 - Background Objects_8
+    21300018: Game Boy Advance - Wario Land 4 - Background Objects_9
+    21300020: Game Boy Advance - Wario Land 4 - Background Objects_10
+    21300022: Game Boy Advance - Wario Land 4 - Background Objects_11
+    21300024: Game Boy Advance - Wario Land 4 - Background Objects_12
+    21300026: Game Boy Advance - Wario Land 4 - Background Objects_13
+    21300028: Game Boy Advance - Wario Land 4 - Background Objects_14
+    21300030: Game Boy Advance - Wario Land 4 - Background Objects_15
+    21300032: Game Boy Advance - Wario Land 4 - Background Objects_16
+    21300034: Game Boy Advance - Wario Land 4 - Background Objects_17
+    21300036: Game Boy Advance - Wario Land 4 - Background Objects_18
+    21300038: Game Boy Advance - Wario Land 4 - Background Objects_19
+    21300040: Game Boy Advance - Wario Land 4 - Background Objects_20
+    21300042: Game Boy Advance - Wario Land 4 - Background Objects_21
+    21300044: Game Boy Advance - Wario Land 4 - Background Objects_22
+    21300046: Game Boy Advance - Wario Land 4 - Background Objects_23
+    21300048: Game Boy Advance - Wario Land 4 - Background Objects_24
+    21300050: Game Boy Advance - Wario Land 4 - Background Objects_25
+    21300052: Game Boy Advance - Wario Land 4 - Background Objects_26
+    21300054: Game Boy Advance - Wario Land 4 - Background Objects_27
+    21300056: Game Boy Advance - Wario Land 4 - Background Objects_28
+    21300058: Game Boy Advance - Wario Land 4 - Background Objects_29
+    21300060: Game Boy Advance - Wario Land 4 - Background Objects_30
+    21300062: Game Boy Advance - Wario Land 4 - Background Objects_31
+    21300064: Game Boy Advance - Wario Land 4 - Background Objects_32
+    21300066: Game Boy Advance - Wario Land 4 - Background Objects_33
+    21300068: Game Boy Advance - Wario Land 4 - Background Objects_34
+    21300070: Game Boy Advance - Wario Land 4 - Background Objects_35
+    21300072: Game Boy Advance - Wario Land 4 - Background Objects_36
+    21300074: Game Boy Advance - Wario Land 4 - Background Objects_37
+    21300076: Game Boy Advance - Wario Land 4 - Background Objects_38
+    21300078: Game Boy Advance - Wario Land 4 - Background Objects_39
+    21300080: Game Boy Advance - Wario Land 4 - Background Objects_40
+    21300082: Game Boy Advance - Wario Land 4 - Background Objects_41
+    21300084: Game Boy Advance - Wario Land 4 - Background Objects_42
+    21300086: Game Boy Advance - Wario Land 4 - Background Objects_43
+    21300088: Game Boy Advance - Wario Land 4 - Background Objects_44
+    21300090: Game Boy Advance - Wario Land 4 - Background Objects_45
+    21300092: Game Boy Advance - Wario Land 4 - Background Objects_46
+    21300094: Game Boy Advance - Wario Land 4 - Background Objects_47
+    21300096: Game Boy Advance - Wario Land 4 - Background Objects_48
+    21300098: Game Boy Advance - Wario Land 4 - Background Objects_49
+    21300100: Game Boy Advance - Wario Land 4 - Background Objects_50
+    21300102: Game Boy Advance - Wario Land 4 - Background Objects_51
+    21300104: Game Boy Advance - Wario Land 4 - Background Objects_52
+    21300106: Game Boy Advance - Wario Land 4 - Background Objects_53
+    21300108: Game Boy Advance - Wario Land 4 - Background Objects_54
+    21300110: Game Boy Advance - Wario Land 4 - Background Objects_55
+    21300112: Game Boy Advance - Wario Land 4 - Background Objects_56
+    21300114: Game Boy Advance - Wario Land 4 - Background Objects_57
+    21300116: Game Boy Advance - Wario Land 4 - Background Objects_58
+    21300118: Game Boy Advance - Wario Land 4 - Background Objects_59
+    21300120: Game Boy Advance - Wario Land 4 - Background Objects_60
+    21300122: Game Boy Advance - Wario Land 4 - Background Objects_61
+    21300124: Game Boy Advance - Wario Land 4 - Background Objects_62
+    21300126: Game Boy Advance - Wario Land 4 - Background Objects_63
+    21300128: Game Boy Advance - Wario Land 4 - Background Objects_64
+    21300130: Game Boy Advance - Wario Land 4 - Background Objects_65
+    21300132: Game Boy Advance - Wario Land 4 - Background Objects_66
+    21300134: Game Boy Advance - Wario Land 4 - Background Objects_67
+    21300136: Game Boy Advance - Wario Land 4 - Background Objects_68
+    21300138: Game Boy Advance - Wario Land 4 - Background Objects_69
+    21300140: Game Boy Advance - Wario Land 4 - Background Objects_70
+    21300142: Game Boy Advance - Wario Land 4 - Background Objects_71
+    21300144: Game Boy Advance - Wario Land 4 - Background Objects_72
+    21300146: Game Boy Advance - Wario Land 4 - Background Objects_73
+    21300148: Game Boy Advance - Wario Land 4 - Background Objects_74
+    21300150: Game Boy Advance - Wario Land 4 - Background Objects_75
+    21300152: Game Boy Advance - Wario Land 4 - Background Objects_76
+    21300154: Game Boy Advance - Wario Land 4 - Background Objects_77
+    21300156: Game Boy Advance - Wario Land 4 - Background Objects_78
+    21300158: Game Boy Advance - Wario Land 4 - Background Objects_79
+    21300160: Game Boy Advance - Wario Land 4 - Background Objects_80
+    21300162: Game Boy Advance - Wario Land 4 - Background Objects_81
+    21300164: Game Boy Advance - Wario Land 4 - Background Objects_82
+    21300166: Game Boy Advance - Wario Land 4 - Background Objects_83
+    21300168: Game Boy Advance - Wario Land 4 - Background Objects_84
+    21300170: Game Boy Advance - Wario Land 4 - Background Objects_85
+    21300172: Game Boy Advance - Wario Land 4 - Background Objects_86
+    21300174: Game Boy Advance - Wario Land 4 - Background Objects_87
+    21300176: Game Boy Advance - Wario Land 4 - Background Objects_88
+    21300178: Game Boy Advance - Wario Land 4 - Background Objects_89
+    21300180: Game Boy Advance - Wario Land 4 - Background Objects_90
+    21300182: Game Boy Advance - Wario Land 4 - Background Objects_91
+    21300184: Game Boy Advance - Wario Land 4 - Background Objects_92
+    21300186: Game Boy Advance - Wario Land 4 - Background Objects_93
+    21300188: Game Boy Advance - Wario Land 4 - Background Objects_94
+    21300190: Game Boy Advance - Wario Land 4 - Background Objects_95
+    21300192: Game Boy Advance - Wario Land 4 - Background Objects_96
+    21300194: Game Boy Advance - Wario Land 4 - Background Objects_97
+    21300196: Game Boy Advance - Wario Land 4 - Background Objects_98
+    21300198: Game Boy Advance - Wario Land 4 - Background Objects_99
+    21300200: Game Boy Advance - Wario Land 4 - Background Objects_100
+    21300202: Game Boy Advance - Wario Land 4 - Background Objects_101
+    21300204: Game Boy Advance - Wario Land 4 - Background Objects_102
+    21300206: Game Boy Advance - Wario Land 4 - Background Objects_103
+    21300208: Game Boy Advance - Wario Land 4 - Background Objects_104
+    21300210: Game Boy Advance - Wario Land 4 - Background Objects_105
+    21300212: Game Boy Advance - Wario Land 4 - Background Objects_106
+    21300214: Game Boy Advance - Wario Land 4 - Background Objects_107
+    21300216: Game Boy Advance - Wario Land 4 - Background Objects_108
+    21300218: Game Boy Advance - Wario Land 4 - Background Objects_109
+    21300220: Game Boy Advance - Wario Land 4 - Background Objects_110
+    21300222: Game Boy Advance - Wario Land 4 - Background Objects_111
+    21300224: Game Boy Advance - Wario Land 4 - Background Objects_112
+    21300226: Game Boy Advance - Wario Land 4 - Background Objects_113
+    21300228: Game Boy Advance - Wario Land 4 - Background Objects_114
+    21300230: Game Boy Advance - Wario Land 4 - Background Objects_115
+    21300232: Game Boy Advance - Wario Land 4 - Background Objects_116
+    21300234: Game Boy Advance - Wario Land 4 - Background Objects_117
+    21300236: Game Boy Advance - Wario Land 4 - Background Objects_118
+    21300238: Game Boy Advance - Wario Land 4 - Background Objects_119
+    21300240: Game Boy Advance - Wario Land 4 - Background Objects_120
+    21300242: Game Boy Advance - Wario Land 4 - Background Objects_121
+    21300244: Game Boy Advance - Wario Land 4 - Background Objects_122
+    21300246: Game Boy Advance - Wario Land 4 - Background Objects_123
+    21300248: Game Boy Advance - Wario Land 4 - Background Objects_124
+    21300250: Game Boy Advance - Wario Land 4 - Background Objects_125
+    21300252: Game Boy Advance - Wario Land 4 - Background Objects_126
+    21300254: Game Boy Advance - Wario Land 4 - Background Objects_127
+    21300256: Game Boy Advance - Wario Land 4 - Background Objects_128
+    21300258: Game Boy Advance - Wario Land 4 - Background Objects_129
+    21300260: Game Boy Advance - Wario Land 4 - Background Objects_130
+    21300262: Game Boy Advance - Wario Land 4 - Background Objects_131
+    21300264: Game Boy Advance - Wario Land 4 - Background Objects_132
+    21300266: Game Boy Advance - Wario Land 4 - Background Objects_133
+    21300268: Game Boy Advance - Wario Land 4 - Background Objects_134
+    21300270: Game Boy Advance - Wario Land 4 - Background Objects_135
+    21300272: Game Boy Advance - Wario Land 4 - Background Objects_136
+    21300274: Game Boy Advance - Wario Land 4 - Background Objects_137
+    21300276: Game Boy Advance - Wario Land 4 - Background Objects_138
+    21300278: Game Boy Advance - Wario Land 4 - Background Objects_139
+    21300280: Game Boy Advance - Wario Land 4 - Background Objects_140
+    21300282: Game Boy Advance - Wario Land 4 - Background Objects_141
+    21300284: Game Boy Advance - Wario Land 4 - Background Objects_142
+    21300286: Game Boy Advance - Wario Land 4 - Background Objects_143
+    21300288: Game Boy Advance - Wario Land 4 - Background Objects_144
+    21300290: Game Boy Advance - Wario Land 4 - Background Objects_145
+    21300292: Game Boy Advance - Wario Land 4 - Background Objects_146
+    21300294: Game Boy Advance - Wario Land 4 - Background Objects_147
+    21300296: Game Boy Advance - Wario Land 4 - Background Objects_148
+    21300298: Game Boy Advance - Wario Land 4 - Background Objects_149
+    21300300: Game Boy Advance - Wario Land 4 - Background Objects_150
+    21300302: Game Boy Advance - Wario Land 4 - Background Objects_151
+    21300304: Game Boy Advance - Wario Land 4 - Background Objects_152
+    21300306: Game Boy Advance - Wario Land 4 - Background Objects_153
+    21300308: Game Boy Advance - Wario Land 4 - Background Objects_154
+    21300310: Game Boy Advance - Wario Land 4 - Background Objects_155
+    21300312: Game Boy Advance - Wario Land 4 - Background Objects_156
+    21300314: Game Boy Advance - Wario Land 4 - Background Objects_157
+    21300316: Game Boy Advance - Wario Land 4 - Background Objects_158
+    21300318: Game Boy Advance - Wario Land 4 - Background Objects_159
+    21300320: Game Boy Advance - Wario Land 4 - Background Objects_160
+    21300322: Game Boy Advance - Wario Land 4 - Background Objects_161
+    21300324: Game Boy Advance - Wario Land 4 - Background Objects_162
+    21300326: Game Boy Advance - Wario Land 4 - Background Objects_163
+    21300328: Game Boy Advance - Wario Land 4 - Background Objects_164
+    21300330: Game Boy Advance - Wario Land 4 - Background Objects_165
+    21300332: Game Boy Advance - Wario Land 4 - Background Objects_166
+    21300334: Game Boy Advance - Wario Land 4 - Background Objects_167
+    21300336: Game Boy Advance - Wario Land 4 - Background Objects_168
+    21300338: Game Boy Advance - Wario Land 4 - Background Objects_169
+    21300340: Game Boy Advance - Wario Land 4 - Background Objects_170
+    21300342: Game Boy Advance - Wario Land 4 - Background Objects_171
+    21300344: Game Boy Advance - Wario Land 4 - Background Objects_172
+    21300346: Game Boy Advance - Wario Land 4 - Background Objects_173
+    21300348: Game Boy Advance - Wario Land 4 - Background Objects_174
+    21300350: Game Boy Advance - Wario Land 4 - Background Objects_175
+    21300352: Game Boy Advance - Wario Land 4 - Background Objects_176
+    21300354: Game Boy Advance - Wario Land 4 - Background Objects_177
+    21300356: Game Boy Advance - Wario Land 4 - Background Objects_178
+    21300358: Game Boy Advance - Wario Land 4 - Background Objects_179
+    21300360: Game Boy Advance - Wario Land 4 - Background Objects_180
+    21300362: Game Boy Advance - Wario Land 4 - Background Objects_181
+    21300364: Game Boy Advance - Wario Land 4 - Background Objects_182
+    21300366: Game Boy Advance - Wario Land 4 - Background Objects_183
+    21300368: Game Boy Advance - Wario Land 4 - Background Objects_184
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 462
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 462
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 437
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 437
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 420
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 420
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 449
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 449
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 436
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_13
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 436
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_14
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 317
+        width: 16
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 340
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 357
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 413
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 415
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_20
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 441
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 442
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 442
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 442
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 424
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 424
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 420
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 420
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_28
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 396
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_29
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_31
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 396
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 408
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_36
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_37
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 383
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 390
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 386
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 386
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 386
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 353
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_44
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_45
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_46
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_49
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 362
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 362
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 362
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 356
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_54
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 347
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 357
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 334
+        width: 133
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_57
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_58
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_60
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_61
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 356
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_63
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 327
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_65
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 320
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 328
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 316
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_73
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 276
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 317
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_75
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 317
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_76
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 301
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_77
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 331
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 301
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_79
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_80
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 300
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 297
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 297
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_84
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_85
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_86
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 310
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 164
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 164
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 164
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_91
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 277
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_94
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 276
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_95
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 249
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 246
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_99
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 275
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_100
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_101
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 213
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_102
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 210
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_103
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 218
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 239
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_105
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 221
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_106
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 213
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_107
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_108
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_109
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 253
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_110
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_111
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_112
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 207
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_113
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 236
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_115
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 167
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 202
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_118
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 202
+        width: 45
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_119
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 152
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_120
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 168
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_121
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 168
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_122
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 178
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 161
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 133
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 133
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_126
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 156
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_128
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_129
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 120
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_130
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 166
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_131
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 157
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_132
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_134
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_135
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 48
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_136
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 116
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5
+        width: 63
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_139
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 120
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_140
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_141
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 126
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_142
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 79
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 117
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_144
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 88
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_145
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 87
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_146
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 104
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_147
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 76
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_148
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 12
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_149
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 94
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_150
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 6
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_151
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_152
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 62
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_153
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_154
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 84
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_155
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 80
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_156
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 74
+        width: 62
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_157
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 64
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_158
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_159
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_160
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 7
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_161
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 39
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_162
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_163
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_164
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_165
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_166
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 44
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_170
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 44
+        width: 46
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_171
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_172
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 13
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 24
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 12
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_175
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_176
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_177
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_178
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_179
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_180
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_181
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_182
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Wario Land 4 - Background Objects_184
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: dce1c76e9dfd0d44090aff12dc90d486
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: teleporting_0
+    21300002: teleporting_1
+    21300004: teleporting_2
+    21300006: teleporting_3
+    21300008: teleporting_4
+    21300010: teleporting_5
+    21300012: teleporting_6
+    21300014: teleporting_7
+    21300016: teleporting_8
+    21300018: teleporting_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: teleporting_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 4
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: teleporting_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 5
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

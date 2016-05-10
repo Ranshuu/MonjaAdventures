@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: d9488d8becdb64b4f97dc4b601f3f2ea
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Mega Man ZX Advent - Floating Platform_0
+    21300002: DS - Mega Man ZX Advent - Floating Platform_1
+    21300004: DS - Mega Man ZX Advent - Floating Platform_2
+    21300006: DS - Mega Man ZX Advent - Floating Platform_3
+    21300008: DS - Mega Man ZX Advent - Floating Platform_4
+    21300010: DS - Mega Man ZX Advent - Floating Platform_5
+    21300012: DS - Mega Man ZX Advent - Floating Platform_6
+    21300014: DS - Mega Man ZX Advent - Floating Platform_7
+    21300016: DS - Mega Man ZX Advent - Floating Platform_8
+    21300018: DS - Mega Man ZX Advent - Floating Platform_9
+    21300020: DS - Mega Man ZX Advent - Floating Platform_10
+    21300022: DS - Mega Man ZX Advent - Floating Platform_11
+    21300024: DS - Mega Man ZX Advent - Floating Platform_12
+    21300026: DS - Mega Man ZX Advent - Floating Platform_13
+    21300028: DS - Mega Man ZX Advent - Floating Platform_14
+    21300030: DS - Mega Man ZX Advent - Floating Platform_15
+    21300032: DS - Mega Man ZX Advent - Floating Platform_16
+    21300034: DS - Mega Man ZX Advent - Floating Platform_17
+    21300036: DS - Mega Man ZX Advent - Floating Platform_18
+    21300038: DS - Mega Man ZX Advent - Floating Platform_19
+    21300040: DS - Mega Man ZX Advent - Floating Platform_20
+    21300042: DS - Mega Man ZX Advent - Floating Platform_21
+    21300044: DS - Mega Man ZX Advent - Floating Platform_22
+    21300046: DS - Mega Man ZX Advent - Floating Platform_23
+    21300048: DS - Mega Man ZX Advent - Floating Platform_24
+    21300050: DS - Mega Man ZX Advent - Floating Platform_25
+    21300052: DS - Mega Man ZX Advent - Floating Platform_26
+    21300054: DS - Mega Man ZX Advent - Floating Platform_27
+    21300056: DS - Mega Man ZX Advent - Floating Platform_28
+    21300058: DS - Mega Man ZX Advent - Floating Platform_29
+    21300060: DS - Mega Man ZX Advent - Floating Platform_30
+    21300062: DS - Mega Man ZX Advent - Floating Platform_31
+    21300064: DS - Mega Man ZX Advent - Floating Platform_32
+    21300066: DS - Mega Man ZX Advent - Floating Platform_33
+    21300068: DS - Mega Man ZX Advent - Floating Platform_34
+    21300070: DS - Mega Man ZX Advent - Floating Platform_35
+    21300072: DS - Mega Man ZX Advent - Floating Platform_36
+    21300074: DS - Mega Man ZX Advent - Floating Platform_37
+    21300076: DS - Mega Man ZX Advent - Floating Platform_38
+    21300078: DS - Mega Man ZX Advent - Floating Platform_39
+    21300080: DS - Mega Man ZX Advent - Floating Platform_40
+    21300082: DS - Mega Man ZX Advent - Floating Platform_41
+    21300084: DS - Mega Man ZX Advent - Floating Platform_42
+    21300086: DS - Mega Man ZX Advent - Floating Platform_43
+    21300088: DS - Mega Man ZX Advent - Floating Platform_44
+    21300090: DS - Mega Man ZX Advent - Floating Platform_45
+    21300092: DS - Mega Man ZX Advent - Floating Platform_46
+    21300094: DS - Mega Man ZX Advent - Floating Platform_47
+    21300096: DS - Mega Man ZX Advent - Floating Platform_48
+    21300098: DS - Mega Man ZX Advent - Floating Platform_49
+    21300100: DS - Mega Man ZX Advent - Floating Platform_50
+    21300102: DS - Mega Man ZX Advent - Floating Platform_51
+    21300104: DS - Mega Man ZX Advent - Floating Platform_52
+    21300106: DS - Mega Man ZX Advent - Floating Platform_53
+    21300108: DS - Mega Man ZX Advent - Floating Platform_54
+    21300110: DS - Mega Man ZX Advent - Floating Platform_55
+    21300112: DS - Mega Man ZX Advent - Floating Platform_56
+    21300114: DS - Mega Man ZX Advent - Floating Platform_57
+    21300116: DS - Mega Man ZX Advent - Floating Platform_58
+    21300118: DS - Mega Man ZX Advent - Floating Platform_59
+    21300120: DS - Mega Man ZX Advent - Floating Platform_60
+    21300122: DS - Mega Man ZX Advent - Floating Platform_61
+    21300124: DS - Mega Man ZX Advent - Floating Platform_62
+    21300126: DS - Mega Man ZX Advent - Floating Platform_63
+    21300128: DS - Mega Man ZX Advent - Floating Platform_64
+    21300130: DS - Mega Man ZX Advent - Floating Platform_65
+    21300132: DS - Mega Man ZX Advent - Floating Platform_66
+    21300134: DS - Mega Man ZX Advent - Floating Platform_67
+    21300136: DS - Mega Man ZX Advent - Floating Platform_68
+    21300138: DS - Mega Man ZX Advent - Floating Platform_69
+    21300140: DS - Mega Man ZX Advent - Floating Platform_70
+    21300142: DS - Mega Man ZX Advent - Floating Platform_71
+    21300144: DS - Mega Man ZX Advent - Floating Platform_72
+    21300146: DS - Mega Man ZX Advent - Floating Platform_73
+    21300148: DS - Mega Man ZX Advent - Floating Platform_74
+    21300150: DS - Mega Man ZX Advent - Floating Platform_75
+    21300152: DS - Mega Man ZX Advent - Floating Platform_76
+    21300154: DS - Mega Man ZX Advent - Floating Platform_77
+    21300156: DS - Mega Man ZX Advent - Floating Platform_78
+    21300158: DS - Mega Man ZX Advent - Floating Platform_79
+    21300160: DS - Mega Man ZX Advent - Floating Platform_80
+    21300162: DS - Mega Man ZX Advent - Floating Platform_81
+    21300164: DS - Mega Man ZX Advent - Floating Platform_82
+    21300166: DS - Mega Man ZX Advent - Floating Platform_83
+    21300168: DS - Mega Man ZX Advent - Floating Platform_84
+    21300170: DS - Mega Man ZX Advent - Floating Platform_85
+    21300172: DS - Mega Man ZX Advent - Floating Platform_86
+    21300174: DS - Mega Man ZX Advent - Floating Platform_87
+    21300176: DS - Mega Man ZX Advent - Floating Platform_88
+    21300178: DS - Mega Man ZX Advent - Floating Platform_89
+    21300180: DS - Mega Man ZX Advent - Floating Platform_90
+    21300182: DS - Mega Man ZX Advent - Floating Platform_91
+    21300184: DS - Mega Man ZX Advent - Floating Platform_92
+    21300186: DS - Mega Man ZX Advent - Floating Platform_93
+    21300188: DS - Mega Man ZX Advent - Floating Platform_94
+    21300190: DS - Mega Man ZX Advent - Floating Platform_95
+    21300192: DS - Mega Man ZX Advent - Floating Platform_96
+    21300194: DS - Mega Man ZX Advent - Floating Platform_97
+    21300196: DS - Mega Man ZX Advent - Floating Platform_98
+    21300198: DS - Mega Man ZX Advent - Floating Platform_99
+    21300200: DS - Mega Man ZX Advent - Floating Platform_100
+    21300202: DS - Mega Man ZX Advent - Floating Platform_101
+    21300204: DS - Mega Man ZX Advent - Floating Platform_102
+    21300206: DS - Mega Man ZX Advent - Floating Platform_103
+    21300208: DS - Mega Man ZX Advent - Floating Platform_104
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Mega Man ZX Advent - Floating Platform_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 210
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46.5}
+        - {x: -44, y: 40.5}
+        - {x: -49, y: 17.5}
+        - {x: -49, y: -4.5}
+        - {x: -11, y: -46.5}
+        - {x: 11, y: -46.5}
+        - {x: 49, y: -9.5}
+        - {x: 49, y: 17.5}
+        - {x: 37, y: 46.5}
+    - name: DS - Mega Man ZX Advent - Floating Platform_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 210
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46.5}
+        - {x: -44, y: 40.5}
+        - {x: -49, y: 17.5}
+        - {x: -49, y: -4.5}
+        - {x: -11, y: -46.5}
+        - {x: 11, y: -46.5}
+        - {x: 49, y: -9.5}
+        - {x: 49, y: 17.5}
+        - {x: 37, y: 46.5}
+    - name: DS - Mega Man ZX Advent - Floating Platform_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 210
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46.5}
+        - {x: -44, y: 40.5}
+        - {x: -49, y: 17.5}
+        - {x: -49, y: -4.5}
+        - {x: -11, y: -46.5}
+        - {x: 11, y: -46.5}
+        - {x: 49, y: -9.5}
+        - {x: 49, y: 17.5}
+        - {x: 37, y: 46.5}
+    - name: DS - Mega Man ZX Advent - Floating Platform_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 210
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 46.5}
+        - {x: -44, y: 40.5}
+        - {x: -49, y: 17.5}
+        - {x: -49, y: -4.5}
+        - {x: -11, y: -46.5}
+        - {x: 11, y: -46.5}
+        - {x: 49, y: -9.5}
+        - {x: 49, y: 17.5}
+        - {x: 37, y: 46.5}
+    - name: DS - Mega Man ZX Advent - Floating Platform_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 110
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 46.5}
+        - {x: -40, y: 4.5}
+        - {x: -30, y: -10.5}
+        - {x: -4, y: -45.5}
+        - {x: -3, y: -46.5}
+        - {x: 5, y: -46.5}
+        - {x: 40, y: 2.5}
+        - {x: 40, y: 42.5}
+        - {x: 39, y: 46.5}
+    - name: DS - Mega Man ZX Advent - Floating Platform_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 147
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 163
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 155
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 164
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 156
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 161
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 156
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 130
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 130
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 130
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 128
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 85
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 118
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_38
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 118
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 118
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_40
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 118
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 118
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_46
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 105
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 105
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_54
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 91
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 93
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_58
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 93
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_61
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -16, y: 4}
+        - {x: -16, y: -10}
+        - {x: -12, y: -16}
+        - {x: 2, y: -16}
+        - {x: 11, y: -11}
+        - {x: 16, y: 0}
+        - {x: 16, y: 16}
+    - name: DS - Mega Man ZX Advent - Floating Platform_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 71
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 83
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 71
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_67
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 69
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_72
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 70
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_78
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 70
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 68
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_81
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_83
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_84
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 70
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_85
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_86
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 37
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_87
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_88
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_89
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 35
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 35
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 36
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_96
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 27
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 23
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_98
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 41
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 40
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_100
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 35
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_101
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 29
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_102
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 28
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_103
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 24
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Mega Man ZX Advent - Floating Platform_104
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 111
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

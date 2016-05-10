@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 2b9d2411ef5cdb14b88a033bd209100d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonjaBall_0
+    21300002: MonjaBall_1
+    21300004: MonjaBall_2
+    21300006: MonjaBall_3
+    21300008: MonjaBall_4
+    21300010: MonjaBall_5
+    21300012: MonjaBall_6
+    21300014: MonjaBall_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MonjaBall_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 691
+        width: 346
+        height: 434
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_1
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 691
+        width: 370
+        height: 413
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 726
+        width: 442
+        height: 350
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_3
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 698
+        width: 389
+        height: 400
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 129
+        width: 370
+        height: 422
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 126
+        width: 426
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_6
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 175
+        width: 409
+        height: 373
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MonjaBall_7
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 150
+        width: 371
+        height: 422
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

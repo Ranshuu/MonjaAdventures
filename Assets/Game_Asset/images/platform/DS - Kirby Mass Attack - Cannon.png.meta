@@ -1,0 +1,1323 @@
+fileFormatVersion: 2
+guid: 68e6715d319387d41860dcc7d36294e6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS - Kirby Mass Attack - Cannon_0
+    21300002: DS - Kirby Mass Attack - Cannon_1
+    21300004: DS - Kirby Mass Attack - Cannon_2
+    21300006: DS - Kirby Mass Attack - Cannon_3
+    21300008: DS - Kirby Mass Attack - Cannon_4
+    21300010: DS - Kirby Mass Attack - Cannon_5
+    21300012: DS - Kirby Mass Attack - Cannon_6
+    21300014: DS - Kirby Mass Attack - Cannon_7
+    21300016: DS - Kirby Mass Attack - Cannon_8
+    21300018: DS - Kirby Mass Attack - Cannon_9
+    21300020: DS - Kirby Mass Attack - Cannon_10
+    21300022: DS - Kirby Mass Attack - Cannon_11
+    21300024: DS - Kirby Mass Attack - Cannon_12
+    21300026: DS - Kirby Mass Attack - Cannon_13
+    21300028: DS - Kirby Mass Attack - Cannon_14
+    21300030: DS - Kirby Mass Attack - Cannon_15
+    21300032: DS - Kirby Mass Attack - Cannon_16
+    21300034: DS - Kirby Mass Attack - Cannon_17
+    21300036: DS - Kirby Mass Attack - Cannon_18
+    21300038: DS - Kirby Mass Attack - Cannon_19
+    21300040: DS - Kirby Mass Attack - Cannon_20
+    21300042: DS - Kirby Mass Attack - Cannon_21
+    21300044: DS - Kirby Mass Attack - Cannon_22
+    21300046: DS - Kirby Mass Attack - Cannon_23
+    21300048: DS - Kirby Mass Attack - Cannon_24
+    21300050: DS - Kirby Mass Attack - Cannon_25
+    21300052: DS - Kirby Mass Attack - Cannon_26
+    21300054: DS - Kirby Mass Attack - Cannon_27
+    21300056: DS - Kirby Mass Attack - Cannon_28
+    21300058: DS - Kirby Mass Attack - Cannon_29
+    21300060: DS - Kirby Mass Attack - Cannon_30
+    21300062: DS - Kirby Mass Attack - Cannon_31
+    21300064: DS - Kirby Mass Attack - Cannon_32
+    21300066: DS - Kirby Mass Attack - Cannon_33
+    21300068: DS - Kirby Mass Attack - Cannon_34
+    21300070: DS - Kirby Mass Attack - Cannon_35
+    21300072: DS - Kirby Mass Attack - Cannon_40
+    21300074: DS - Kirby Mass Attack - Cannon_47
+    21300076: DS - Kirby Mass Attack - Cannon_48
+    21300078: DS - Kirby Mass Attack - Cannon_49
+    21300080: DS - Kirby Mass Attack - Cannon_50
+    21300082: DS - Kirby Mass Attack - Cannon_51
+    21300084: DS - Kirby Mass Attack - Cannon_52
+    21300086: DS - Kirby Mass Attack - Cannon_53
+    21300088: DS - Kirby Mass Attack - Cannon_54
+    21300090: DS - Kirby Mass Attack - Cannon_55
+    21300092: DS - Kirby Mass Attack - Cannon_56
+    21300094: DS - Kirby Mass Attack - Cannon_57
+    21300096: DS - Kirby Mass Attack - Cannon_58
+    21300098: DS - Kirby Mass Attack - Cannon_59
+    21300100: DS - Kirby Mass Attack - Cannon_60
+    21300102: DS - Kirby Mass Attack - Cannon_74
+    21300104: DS - Kirby Mass Attack - Cannon_88
+    21300106: DS - Kirby Mass Attack - Cannon_89
+    21300108: DS - Kirby Mass Attack - Cannon_90
+    21300110: DS - Kirby Mass Attack - Cannon_91
+    21300112: DS - Kirby Mass Attack - Cannon_92
+    21300114: DS - Kirby Mass Attack - Cannon_93
+    21300116: DS - Kirby Mass Attack - Cannon_94
+    21300118: DS - Kirby Mass Attack - Cannon_95
+    21300120: DS - Kirby Mass Attack - Cannon_96
+    21300122: DS - Kirby Mass Attack - Cannon_98
+    21300124: DS - Kirby Mass Attack - Cannon_99
+    21300126: DS - Kirby Mass Attack - Cannon_100
+    21300128: DS - Kirby Mass Attack - Cannon_101
+    21300130: DS - Kirby Mass Attack - Cannon_102
+    21300132: DS - Kirby Mass Attack - Cannon_103
+    21300134: DS - Kirby Mass Attack - Cannon_104
+    21300136: DS - Kirby Mass Attack - Cannon_105
+    21300138: DS - Kirby Mass Attack - Cannon_106
+    21300140: DS - Kirby Mass Attack - Cannon_107
+    21300142: DS - Kirby Mass Attack - Cannon_108
+    21300144: DS - Kirby Mass Attack - Cannon_109
+    21300146: DS - Kirby Mass Attack - Cannon_110
+    21300148: DS - Kirby Mass Attack - Cannon_111
+    21300150: DS - Kirby Mass Attack - Cannon_112
+    21300152: DS - Kirby Mass Attack - Cannon_113
+    21300154: DS - Kirby Mass Attack - Cannon_114
+    21300156: DS - Kirby Mass Attack - Cannon_115
+    21300158: DS - Kirby Mass Attack - Cannon_116
+    21300160: DS - Kirby Mass Attack - Cannon_117
+    21300162: DS - Kirby Mass Attack - Cannon_118
+    21300164: DS - Kirby Mass Attack - Cannon_119
+    21300166: DS - Kirby Mass Attack - Cannon_120
+    21300168: DS - Kirby Mass Attack - Cannon_121
+    21300170: DS - Kirby Mass Attack - Cannon_122
+    21300172: DS - Kirby Mass Attack - Cannon_123
+    21300174: DS - Kirby Mass Attack - Cannon_124
+    21300176: DS - Kirby Mass Attack - Cannon_125
+    21300178: DS - Kirby Mass Attack - Cannon_126
+    21300180: DS - Kirby Mass Attack - Cannon_127
+    21300182: DS - Kirby Mass Attack - Cannon_128
+    21300184: DS - Kirby Mass Attack - Cannon_129
+    21300186: DS - Kirby Mass Attack - Cannon_130
+    21300188: DS - Kirby Mass Attack - Cannon_131
+    21300190: DS - Kirby Mass Attack - Cannon_132
+    21300192: DS - Kirby Mass Attack - Cannon_133
+    21300194: DS - Kirby Mass Attack - Cannon_134
+    21300196: DS - Kirby Mass Attack - Cannon_135
+    21300198: DS - Kirby Mass Attack - Cannon_136
+    21300200: DS - Kirby Mass Attack - Cannon_137
+    21300202: DS - Kirby Mass Attack - Cannon_138
+    21300204: DS - Kirby Mass Attack - Cannon_139
+    21300206: DS - Kirby Mass Attack - Cannon_140
+    21300208: DS - Kirby Mass Attack - Cannon_141
+    21300210: DS - Kirby Mass Attack - Cannon_142
+    21300212: DS - Kirby Mass Attack - Cannon_143
+    21300214: DS - Kirby Mass Attack - Cannon_144
+    21300216: DS - Kirby Mass Attack - Cannon_144
+    21300218: DS - Kirby Mass Attack - Cannon_136
+    21300220: DS - Kirby Mass Attack - Cannon_136
+    21300222: DS - Kirby Mass Attack - Cannon_137
+    21300224: DS - Kirby Mass Attack - Cannon_138
+    21300226: DS - Kirby Mass Attack - Cannon_139
+    21300228: DS - Kirby Mass Attack - Cannon_140
+    21300230: DS - Kirby Mass Attack - Cannon_141
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DS - Kirby Mass Attack - Cannon_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 672
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 646
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 646
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 651
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 651
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_10
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 646
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 646
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_12
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 651
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 651
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 651
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 651
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_16
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 651
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 638
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 621
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 626
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_20
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 626
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_21
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 626
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_22
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 626
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 626
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_24
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 626
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_25
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 626
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 626
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 626
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_28
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_29
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 626
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_30
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 621
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 621
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_32
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 626
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 588
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 588
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 587
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_40
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 589
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 538
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 537
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 536
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_50
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 537
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 481
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 482
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 478
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 474
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_55
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 473
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 476
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_57
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 478
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_58
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 398
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 398
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 398
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 397
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 331
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 313
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_91
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 263
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_92
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 262
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_93
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_99
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_100
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 261
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_101
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 261
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_102
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_103
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 211
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 156
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_105
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 157
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 153
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_107
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 149
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 148
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_109
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 151
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_110
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 153
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_111
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 73
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 73
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 73
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_114
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_115
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 112
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_116
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 114
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_119
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_120
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_121
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_122
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_123
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_124
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_125
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_126
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_128
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_129
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 91
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 91
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_132
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_133
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_134
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_135
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 75
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_136
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 75
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_137
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 75
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_138
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 79
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_139
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 79
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_140
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 79
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_141
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_142
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_144
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_144
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 585
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 398
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_136
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 260
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_137
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 400
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_138
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 399
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_139
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 400
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_140
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 401
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: DS - Kirby Mass Attack - Cannon_141
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 400
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
